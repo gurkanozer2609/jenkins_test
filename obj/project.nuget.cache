@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DioqawwYyxdlBf58YywrJ1UsSQiQj80KSSi2TXnW56WeJIZ3DQBIIkQGxk4HiPIoYYCYUWrg+SdnGULJcvSJSw==",
+  "dgSpecHash": "gHh+cu1IEQ1uzKAm+Fmd5GMbcmgNWWiacWItjDQEPd6g0OMmWq/RO9QSp/mJn4N5r3/+7Y9NWdinlKUZ+9dSrg==",
   "success": true,
-  "projectFilePath": "/home/gerkane/Documents/GitHub/JenkinsTest/JenkinsTest.csproj",
+  "projectFilePath": "/home/gerkane/Documents/GitHub/jenkins_test/JenkinsTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

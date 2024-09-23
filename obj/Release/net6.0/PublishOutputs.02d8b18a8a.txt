@@ -1,0 +1,7 @@
+/home/gerkane/Documents/GitHub/jenkins_test/publish/JenkinsTest
+/home/gerkane/Documents/GitHub/jenkins_test/publish/appsettings.Development.json
+/home/gerkane/Documents/GitHub/jenkins_test/publish/appsettings.json
+/home/gerkane/Documents/GitHub/jenkins_test/publish/JenkinsTest.dll
+/home/gerkane/Documents/GitHub/jenkins_test/publish/JenkinsTest.deps.json
+/home/gerkane/Documents/GitHub/jenkins_test/publish/JenkinsTest.runtimeconfig.json
+/home/gerkane/Documents/GitHub/jenkins_test/publish/JenkinsTest.pdb

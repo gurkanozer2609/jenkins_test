@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JenkinsTest/1.0.0": {
+        "runtime": {
+          "JenkinsTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JenkinsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
